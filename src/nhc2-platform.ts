@@ -52,6 +52,8 @@ class NHC2Platform implements DynamicPlatformPlugin {
 
     log.info("NHC2Platform finished initializing!");
 
+    log.info("Test message typed by Miranda 10/08/2020 15:23");
+
     api.on(APIEvent.DID_FINISH_LAUNCHING, async () => {
       log.info("NHC2Platform 'didFinishLaunching'");
 
