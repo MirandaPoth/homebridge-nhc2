@@ -10,10 +10,10 @@
 	],
 	"repository": {
 		"type": "git",
-		"url": "git://github.com/wvanvlaenderen/homebridge-nhc2.git"
+		"url": "git://github.com/mirandapoth/homebridge-nhc2.git"
 	},
 	"bugs": {
-		"url": "https://github.com/wvanvlaenderen/homebridge-nhc2/issues"
+		"url": "https://github.com/mirandapoth/homebridge-nhc2/issues"
 	},
 	"engines": {
 		"node": ">=11.0.0",
